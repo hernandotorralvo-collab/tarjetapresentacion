@@ -9,10 +9,10 @@ import samigalery5 from '../../assets/Imagen5.jpg';
 import samigalery6 from '../../assets/Imagen6.jpg';
 import samigalery7 from '../../assets/Imagen7.png';
 import samigalery8 from '../../assets/Imagen8.png';
-import samigalery11 from '../../assets/Imagen11.png';
-import samigalery12 from '../../assets/Imagen12.png';
-import samigalery13 from '../../assets/Imagen13.png';
-import samigalery14 from '../../assets/Imagen14.png';
+import samigalery11 from '../../assets/imagen11.png';
+import samigalery12 from '../../assets/imagen12.png';
+import samigalery13 from '../../assets/imagen13.png';
+import samigalery14 from '../../assets/imagen14.png';
 import samigalery15 from '../../assets/imagen15.png';
 import samigalery16 from '../../assets/Imagen16.jpg';
 
